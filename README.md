@@ -10,6 +10,8 @@ Python
 
 ## Use
 
-Execute `curl -sL bit.ly/repo-sync | bash` or `bash <(curl -sL bit.ly/repo-sync)`
+Execute `curl -sL bit.ly/repo-sync | bash` or `bash <(curl -sL bit.ly/repo-sync)`.
 
-Now you can push your changes
+**Note**: Only works if the Git `origin` URL is SSH (`git@github.com/owner/repo.git`).
+
+Now you can push your changes.
