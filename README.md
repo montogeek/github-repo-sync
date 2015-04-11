@@ -10,6 +10,6 @@ Python
 
 ## Use
 
-Execute `curl -L bit.ly/repo-sync | bash`
+Execute `curl -L bit.ly/repo-sync | bash` or `bash <(curl -sL bit.ly/repo-sync)`
 
 Now you can push your changes
