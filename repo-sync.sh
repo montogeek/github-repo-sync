@@ -1,5 +1,5 @@
-#!bin/bash
-git remove add upstream ${1}
+#! /usr/bin/env bash
+git remote add upstream ${1}
 git remote -v
 git fetch upstream
 git checkout master
