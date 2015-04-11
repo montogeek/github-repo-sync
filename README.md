@@ -4,8 +4,12 @@
 
 Currently Github does not have a simple, straightforward way to automatically sync a fork with the original repo.
 
+## Dependencies
+
+Python
+
 ## Use
 
-Just copy the `repo-sync.sh` file to your fork and run it `repo-sync.sh ORIGINAL_FORK_URL`. Or if you are impatient `curl -L http://bit.ly/repo-sync | bash -s ORIGINAL_FORK_URL`.
+Execute `curl -L bit.ly/repo-sync | bash`
 
 Now you can push your changes
