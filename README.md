@@ -15,3 +15,7 @@ Execute `curl -sL bit.ly/repo-sync | bash` or `bash <(curl -sL bit.ly/repo-sync)
 **Note**: Only works if the Git `origin` URL is SSH (`git@github.com/owner/repo.git`).
 
 Now you can push your changes.
+
+## License
+
+This source code is under [MIT license](https://github.com/imjustd/flexbox-playground/blob/master/LICENSE).
