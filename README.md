@@ -10,7 +10,17 @@ Python
 
 ## Use
 
-Execute `curl -sL bit.ly/repo-sync | bash` or `bash <(curl -sL bit.ly/repo-sync)` on your fork repo.
+Execute 
+```bash
+curl -sL bit.ly/repo-sync | bash
+```
+
+or 
+
+```bash
+bash <(curl -sL bit.ly/repo-sync)
+``` 
+on your fork repo.
 
 **Note**: Only works if the Git `origin` URL is SSH (`git@github.com/owner/repo.git`).
 
