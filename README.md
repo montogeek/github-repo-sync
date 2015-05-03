@@ -1,4 +1,4 @@
-# github-repo-sync
+# GitHub Fork Repository Sync
 
 ## Why?
 
