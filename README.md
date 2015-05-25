@@ -22,9 +22,9 @@ bash <(curl -sL bit.ly/repo-sync)
 ``` 
 on your fork repo.
 
-**Note**: Only works if the Git `origin` URL is SSH (`git@github.com/owner/repo.git`).
-
 Now you can push your changes.
+
+**Note**: Only works if the Git `origin` URL is SSH (`git@github.com/owner/repo.git`).
 
 ## License
 
