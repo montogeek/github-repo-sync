@@ -20,7 +20,7 @@ or
 ```bash
 bash <(curl -sL bit.ly/repo-sync)
 ``` 
-on your fork repo.
+on your terminal in your fork repo directory.
 
 Now you can push your changes.
 
