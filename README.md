@@ -24,7 +24,7 @@ on your terminal in your fork repo directory.
 
 Now you can push your changes.
 
-**Note**: Only works if the Git `origin` URL is SSH (`git@github.com/owner/repo.git`).
+**Note**: Only works if the Git `origin` URL is SSH (`git@github.com/owner/repo.git`). The name of the original repo will be called `upstream`.
 
 ## License
 
